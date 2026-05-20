@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|6|@|0.1|@| Albert Einstein did not visit Mars. He was a theoretical physicist who lived from 1879|@|200|@|0.0|@|[200]|@|-3.048008441925049
+Qwen2.5-1.5B-Instruct|@|6|@|0.2|@| Albert Einstein did not visit Mars. He was a theoretical physicist who lived from 1879|@|200|@|0.0|@|[200]|@|-3.048008441925049
+Qwen2.5-1.5B-Instruct|@|6|@|0.4|@| Albert Einstein did not visit Mars. He was a theoretical physicist who lived from 1879|@|200|@|0.0|@|[200]|@|-3.048008441925049

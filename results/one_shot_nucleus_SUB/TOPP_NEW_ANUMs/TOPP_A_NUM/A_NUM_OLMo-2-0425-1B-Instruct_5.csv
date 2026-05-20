@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|5|@|0.1|@|". Possible answers: 1. water bottle. 2. bag. 3. the water|@|111|@|1.2909880416948905|@|[15, 111, 21, 23, 30]|@|-11.222047805786133
+OLMo-2-0425-1B-Instruct|@|5|@|0.2|@|". Possible answers: 1. water bottle. 2. bag. 3. water.|@|33|@|2.381681847577679|@|[33, 2, 3, 5, 7, 8, 12, 13, 14, 28, 30, 31]|@|-10.290033340454102
+OLMo-2-0425-1B-Instruct|@|5|@|0.4|@|". Possible answers: 1. The water bottle. 2. The bag. 3.|@|24|@|4.156681983113722|@|[1, 2, 3, 4, 5, 6, 7, 9, 11, 24]|@|-6.4483537673950195

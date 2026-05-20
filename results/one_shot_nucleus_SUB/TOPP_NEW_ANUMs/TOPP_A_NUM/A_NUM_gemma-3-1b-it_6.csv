@@ -1,0 +1,26 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|6|@|0.1|@|
+
+Albert Einstein visited Mars in 1953.
+
+---
+
+**Explanation:**
+
+Einstein|@|200|@|0.0|@|[200]|@|-4.692797660827637
+gemma-3-1b-it|@|6|@|0.2|@|
+
+Albert Einstein visited Mars in 1953.
+
+**Explanation:**
+
+Einstein was a|@|109|@|0.6890916952679865|@|[91, 109]|@|-5.356714248657227
+gemma-3-1b-it|@|6|@|0.4|@|
+
+Albert Einstein visited Mars in 1953.
+
+---
+
+**Explanation:**
+
+Einstein|@|48|@|2.19663491194987|@|[32, 8, 9, 11, 12, 48, 18, 31]|@|-4.694473743438721

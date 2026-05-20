@@ -1,0 +1,7 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|6|@|0.1|@|<|endoftext|>What year did Albert Einstein visit Mars?<|endoftext|> Pluto is the largest of the eight planets in our|@|24|@|3.2422637161705143|@|[1, 2, 3, 4, 5, 7, 9, 14, 20, 24]|@|-22.537532806396484
+OLMo-2-0425-1B|@|6|@|0.2|@| 1948
+
+What is the capital of the United States? Washington, D.C.
+What is|@|5|@|4.972492206677745|@|[1, 2, 3, 5]|@|-21.06537628173828
+OLMo-2-0425-1B|@|6|@|0.4|@| A) 2001 B) 2002 C) 2003 D) 2004|@|3|@|5.240249351384419|@|[1, 2, 3]|@|-11.60555648803711

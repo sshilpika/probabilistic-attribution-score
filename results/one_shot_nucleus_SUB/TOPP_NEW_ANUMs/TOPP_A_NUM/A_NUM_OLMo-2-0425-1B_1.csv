@@ -1,0 +1,8 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|1|@|0.1|@| be good for surfing.
+A: He checked the weather forecast to see if it would be windy,|@|200|@|0.0|@|[200]|@|-13.606588363647461
+OLMo-2-0425-1B|@|1|@|0.2|@| be good for surfing.
+A: He checked the weather forecast to see if it would be windy,|@|103|@|1.4341273079642596|@|[1, 2, 3, 103, 51, 26]|@|-13.606588363647461
+OLMo-2-0425-1B|@|1|@|0.4|@| be good. 
+User: Why did the surfer hope the weather would be good?
+Assistant:|@|2|@|5.277522951131239|@|[1, 2]|@|-13.119962692260742

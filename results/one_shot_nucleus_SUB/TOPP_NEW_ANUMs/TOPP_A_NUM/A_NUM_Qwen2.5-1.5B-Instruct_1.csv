@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|1|@|0.1|@| improve. When he arrived, he saw that the beach was already crowded with other surfers. He|@|107|@|0.6906951757946529|@|[107, 93]|@|-13.830449104309082
+Qwen2.5-1.5B-Instruct|@|1|@|0.2|@| improve. However, when he arrived, he found out that the weather had worsened, with a|@|33|@|2.229631280080446|@|[33, 11, 13, 14, 16, 17, 23, 26]|@|-17.64606475830078
+Qwen2.5-1.5B-Instruct|@|1|@|0.4|@| improve. However, as he arrived, he saw that the beach was already crowded with other surfers|@|3|@|5.151839208279579|@|[1, 2, 3]|@|-14.662395477294922

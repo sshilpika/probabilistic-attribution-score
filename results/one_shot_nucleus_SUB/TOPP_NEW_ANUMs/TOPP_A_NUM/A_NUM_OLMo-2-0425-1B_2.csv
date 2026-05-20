@@ -1,0 +1,8 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|2|@|0.1|@| accomplishment. She had climbed a mountain!
+
+But then, she realized that she had forgotten her camera.|@|106|@|0.6913460990017393|@|[106, 94]|@|-26.495012283325195
+OLMo-2-0425-1B|@|2|@|0.2|@| accomplishment. She decided to take a break and enjoy the scenery before continuing her journey.
+
+As she sat|@|27|@|3.491535805065582|@|[1, 2, 3, 4, 5, 6, 7, 8, 13, 15, 27]|@|-20.145835876464844
+OLMo-2-0425-1B|@|2|@|0.4|@| accomplishment. However, as she started to descend, she realized that she had forgotten her water bottle.|@|2|@|5.291385894742438|@|[1, 2]|@|-19.865894317626953

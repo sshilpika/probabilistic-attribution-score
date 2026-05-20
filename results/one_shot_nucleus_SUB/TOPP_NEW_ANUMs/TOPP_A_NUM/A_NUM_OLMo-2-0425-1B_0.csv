@@ -1,0 +1,7 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|0|@|0.1|@|"
+Output: calm<|endoftext|>Q: "Tim was nervous about his talk. He had been preparing and|@|200|@|0.0|@|[200]|@|-9.566020011901855
+OLMo-2-0425-1B|@|0|@|0.2|@|"
+Output: calm<|endoftext|>Detailed<|endoftext|>Q: "Tim was nervous about his talk. He had been|@|53|@|2.166363451193721|@|[1, 2, 3, 5, 6, 8, 45, 46, 53]|@|-12.811650276184082
+OLMo-2-0425-1B|@|0|@|0.4|@|"
+Output: calm<|endoftext|>Teacher: No, the answer is not correct. Tim was nervous about his|@|9|@|4.7228237113423805|@|[1, 2, 3, 4, 5, 6, 9]|@|-10.007112503051758

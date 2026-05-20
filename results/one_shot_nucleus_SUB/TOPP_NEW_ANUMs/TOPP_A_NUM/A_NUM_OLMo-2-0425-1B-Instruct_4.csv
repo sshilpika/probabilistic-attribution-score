@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|4|@|0.1|@| 1997." is the answer. Yes / no, based on this passage. The passage is|@|200|@|0.0|@|[200]|@|-12.091646194458008
+OLMo-2-0425-1B-Instruct|@|4|@|0.2|@| 1997." is the answer. Yes / no, based on this passage. The passage is|@|200|@|0.0|@|[200]|@|-12.091646194458008
+OLMo-2-0425-1B-Instruct|@|4|@|0.4|@|  "  - A) 1997  - B) 2007  - C)|@|9|@|4.447554441974544|@|[1, 2, 3, 4, 5, 6, 7, 8, 9]|@|-10.961355209350586

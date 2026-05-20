@@ -1,0 +1,14 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|3|@|0.1|@| closely.
+
+The woman, a renowned art collector, was sitting in a plush velvet armchair, a|@|200|@|0.0|@|[200]|@|-9.66927719116211
+gemma-3-1b-it|@|3|@|0.2|@| closely.
+
+The woman, a renowned art collector, was sitting in a plush velvet armchair, a|@|200|@|0.0|@|[200]|@|-9.66763687133789
+gemma-3-1b-it|@|3|@|0.4|@| closely.
+
+(This is the beginning of a story.)
+
+---
+
+The rain hammered against the|@|28|@|3.0842913122691327|@|[1, 2, 3, 4, 5, 6, 7, 8, 11, 14, 19, 26, 28]|@|-8.695600509643555

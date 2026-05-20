@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|1|@|0.1|@| be good.
+
+The waves were beautiful, and the sun was shining brightly. He spent the morning|@|200|@|0.0|@|[200]|@|-10.02137565612793
+gemma-3-1b-it|@|1|@|0.2|@| be good.
+
+The waves were beautiful, and the sun was shining brightly. He spent the morning|@|200|@|0.0|@|[200]|@|-10.025186538696289
+gemma-3-1b-it|@|1|@|0.4|@| be good.
+
+The sun was shining brightly, and the waves were perfect. He spent the morning|@|39|@|2.8769969877043438|@|[1, 2, 3, 4, 5, 6, 39, 7, 11, 14, 19, 26]|@|-8.331337928771973

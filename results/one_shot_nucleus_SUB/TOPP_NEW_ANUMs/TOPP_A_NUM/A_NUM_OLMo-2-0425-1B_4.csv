@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|4|@|0.1|@| " is it true that "In 1997, NASA's Cassini space probe was launched to|@|108|@|0.6899437584583995|@|[108, 92]|@|-9.498841285705566
+OLMo-2-0425-1B|@|4|@|0.2|@| " is it true that "In 1997, NASA's Cassini space probe was launched to|@|68|@|2.316062891810835|@|[32, 1, 2, 3, 68, 5, 6, 7, 8, 4, 19, 20]|@|-9.498841285705566
+OLMo-2-0425-1B|@|4|@|0.4|@| " is it the correct answer to the question "When was the Cassini space probe launched to explore|@|10|@|4.695838507929071|@|[1, 2, 3, 4, 5, 6, 7, 10]|@|-9.60601806640625

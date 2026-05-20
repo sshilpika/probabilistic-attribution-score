@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|0|@|0.1|@| He was very nervous about his talk. He had been preparing and practicing for weeks, but he still|@|21|@|3.578202802771767|@|[1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 21]|@|-12.800121307373047
+gpt2|@|0|@|0.2|@| He then said, 'I'm not ready to talk about this. I'm not ready to talk|@|3|@|5.164003161522825|@|[1, 2, 3]|@|-26.98626708984375
+gpt2|@|0|@|0.4|@| He then turned to face the audience and spoke. "We have a mission to help the country."|@|1|@|5.298317366548037|@|[1]|@|-50.24353790283203

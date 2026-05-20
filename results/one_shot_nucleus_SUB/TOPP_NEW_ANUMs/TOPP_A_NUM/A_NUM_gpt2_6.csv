@@ -1,0 +1,19 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|6|@|0.1|@|
+
+
+The year of the first human mission to Mars.
+
+
+The year of the first|@|20|@|3.2870173220995818|@|[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 16, 20]|@|-22.93006134033203
+gpt2|@|6|@|0.2|@|
+
+
+I don't know. I don't know. I don't know. I don|@|4|@|5.209907223443198|@|[1, 2, 3, 4]|@|-16.867881774902344
+gpt2|@|6|@|0.4|@|
+
+
+(from Wikimedia Commons)
+
+
+Albert Einstein, one of the world's most|@|1|@|5.298317366548037|@|[1]|@|-31.011449813842773

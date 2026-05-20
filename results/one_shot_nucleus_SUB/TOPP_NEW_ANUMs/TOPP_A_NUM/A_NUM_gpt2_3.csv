@@ -1,0 +1,13 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|3|@|0.1|@| closely.
+
+
+"I'm not sure what it is," he said. "I'm|@|115|@|1.7861980481411368|@|[2, 4, 5, 6, 7, 8, 9, 115]|@|-20.82645034790039
+gpt2|@|3|@|0.2|@| closely.
+
+
+"I don't know what it is," he said. "I don|@|19|@|4.647638671903742|@|[1, 2, 3, 4, 5, 7, 19]|@|-19.1469783782959
+gpt2|@|3|@|0.4|@| closely.
+
+
+"You know, this is my apartment. It's my room. I|@|1|@|5.298317366548037|@|[1]|@|-33.58308029174805

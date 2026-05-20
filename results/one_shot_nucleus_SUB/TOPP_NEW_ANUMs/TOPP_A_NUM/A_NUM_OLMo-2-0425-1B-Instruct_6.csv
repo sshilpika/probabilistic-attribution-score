@@ -1,0 +1,6 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|6|@|0.1|@| Answer: 1901<|endoftext|>The year 1901 was when Albert Einstein visited Mars.<|endoftext|>   |@|96|@|1.451864581674432|@|[96, 2, 5, 41, 10, 16, 30]|@|-19.826236724853516
+OLMo-2-0425-1B-Instruct|@|6|@|0.2|@| Answer: 1953
+
+Albert Einstein was a theoretical physicist who made significant contributions to the field of|@|31|@|3.8004076329848147|@|[1, 2, 3, 4, 5, 6, 13, 23, 31]|@|-17.052837371826172
+OLMo-2-0425-1B-Instruct|@|6|@|0.4|@| Answer: The first time Albert Einstein visited Mars was in 1895.<|endoftext|> <|endoftext|> <|endoftext|>|@|2|@|5.291385894742438|@|[1, 2]|@|-18.50455093383789

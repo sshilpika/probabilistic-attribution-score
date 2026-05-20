@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|3|@|0.1|@| closely later.
+
+The police officer then moved on to the window, noting that the glass was slightly dis|@|109|@|0.6890916952679865|@|[91, 109]|@|-18.55305290222168
+OLMo-2-0425-1B-Instruct|@|3|@|0.2|@| closely later.
+
+The police officer then moved on to the wall, where he found a small, dusty|@|35|@|2.1715966064361027|@|[2, 35, 3, 8, 11, 13, 14, 25, 26, 28]|@|-20.464004516601562
+OLMo-2-0425-1B-Instruct|@|3|@|0.4|@| closely later.
+
+He then turned his attention to the photographs on the wall. The images were blurry,|@|3|@|5.212523464162021|@|[1, 2, 3]|@|-16.362857818603516

@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|2|@|0.1|@| accomplishment.
+
+However, she quickly realized that she was lost. The dense forest was confusing, and|@|200|@|0.0|@|[200]|@|-9.977442741394043
+gemma-3-1b-it|@|2|@|0.2|@| accomplishment.
+
+However, she quickly realized that she was lost. The dense forest was confusing, and|@|200|@|0.0|@|[200]|@|-9.983969688415527
+gemma-3-1b-it|@|2|@|0.4|@| accomplishment.
+
+However, she quickly realized that she was lost. The dense forest surrounded her, and|@|27|@|3.2356148603822583|@|[1, 2, 3, 4, 6, 7, 9, 10, 14, 15, 20, 22, 27]|@|-9.662163734436035

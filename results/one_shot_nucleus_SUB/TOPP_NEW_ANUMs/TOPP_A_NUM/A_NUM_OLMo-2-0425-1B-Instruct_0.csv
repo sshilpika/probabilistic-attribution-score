@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|0|@|0.1|@|" Choices: "calm", "nervous", "relaxed", "confident",|@|200|@|0.0|@|[200]|@|-8.045802116394043
+OLMo-2-0425-1B-Instruct|@|0|@|0.2|@|" Choices: "calm", "nervous", "confident", "relaxed",|@|106|@|0.6913460990017393|@|[106, 94]|@|-8.08692741394043
+OLMo-2-0425-1B-Instruct|@|0|@|0.4|@|" Choices: "calm", "calm and collected", "nervous and anxious",|@|52|@|3.2018124482501986|@|[1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 52]|@|-9.06623363494873

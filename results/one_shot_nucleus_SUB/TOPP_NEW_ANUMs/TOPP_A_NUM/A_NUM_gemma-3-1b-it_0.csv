@@ -1,0 +1,16 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|0|@|0.1|@| "
+
+Here are some words that could fill the blank, depending on the desired tone:
+
+*|@|200|@|0.0|@|[200]|@|-6.908241271972656
+gemma-3-1b-it|@|0|@|0.2|@| "
+
+Here are some words that could fill the blank, depending on the desired tone:
+
+*|@|200|@|0.0|@|[200]|@|-6.901557922363281
+gemma-3-1b-it|@|0|@|0.4|@| "
+
+Here are some words that could fill the blank, depending on the desired tone:
+
+*|@|107|@|1.0108277839267066|@|[51, 42, 107]|@|-6.901557922363281

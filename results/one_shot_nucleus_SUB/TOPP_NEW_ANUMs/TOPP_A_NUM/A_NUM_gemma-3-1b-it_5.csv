@@ -1,0 +1,19 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|5|@|0.1|@|
+
+a) The water bottle
+b) The bag
+c) The water bottle
+d)|@|200|@|0.0|@|[200]|@|-2.266266345977783
+gemma-3-1b-it|@|5|@|0.2|@|
+
+a) The water bottle
+b) The bag
+c) The water bottle
+d)|@|200|@|0.0|@|[200]|@|-2.26361083984375
+gemma-3-1b-it|@|5|@|0.4|@|
+
+a) The water bottle
+b) The bag
+c) The water bottle
+d)|@|200|@|0.0|@|[200]|@|-2.26361083984375

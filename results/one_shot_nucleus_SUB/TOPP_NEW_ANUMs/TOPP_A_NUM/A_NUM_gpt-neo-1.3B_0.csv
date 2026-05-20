@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt-neo-1.3B|@|0|@|0.1|@| He was nervous about his talk. He had been preparing and practicing for weeks, but he still wasn|@|200|@|0.0|@|[200]|@|-6.383057117462158
+gpt-neo-1.3B|@|0|@|0.2|@| He was nervous about his talk. He had been preparing and practicing for weeks, but he still wasn|@|100|@|1.2715886532400733|@|[100, 4, 8, 12, 14, 62]|@|-6.383057117462158
+gpt-neo-1.3B|@|0|@|0.4|@| Tim was nervous about his talk. He had been preparing and practicing for weeks, but he still wasn|@|4|@|5.2636600075200395|@|[1, 2, 4]|@|-5.292723178863525

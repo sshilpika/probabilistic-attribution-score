@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|2|@|0.1|@| accomplishment. She decided to take a break and enjoy the view for a while before continuing her hike back|@|200|@|0.0|@|[200]|@|-13.513254165649414
+OLMo-2-0425-1B-Instruct|@|2|@|0.2|@| accomplishment. She decided to take a break and enjoy the view for a while before continuing her hike back|@|106|@|1.4006129093070252|@|[8, 106, 11, 20, 27, 28]|@|-13.513254165649414
+OLMo-2-0425-1B-Instruct|@|2|@|0.4|@| accomplishment. As she sat down to enjoy the view, she realized that she had forgotten to pack sunscreen|@|7|@|4.71553662234167|@|[1, 2, 3, 4, 5, 6, 7]|@|-12.800662994384766

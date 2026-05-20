@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|5|@|0.1|@| (A) The water bottle. (B) The bag. (C) The water.<|endoftext|>|@|200|@|0.0|@|[200]|@|-6.769705772399902
+OLMo-2-0425-1B|@|5|@|0.2|@| (A) The water bottle. (B) The bag. (C) The water.<|endoftext|>|@|103|@|1.2253164256306381|@|[33, 31, 103]|@|-6.769705772399902
+OLMo-2-0425-1B|@|5|@|0.4|@| (A) The water bottle. (B) The bag. (C) The bottle.<|endoftext|>|@|43|@|2.3358621624633504|@|[1, 2, 3, 7, 8, 43, 14, 17, 20, 24]|@|-7.436605453491211

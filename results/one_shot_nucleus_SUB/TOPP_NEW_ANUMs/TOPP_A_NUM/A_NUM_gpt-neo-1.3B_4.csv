@@ -1,0 +1,32 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt-neo-1.3B|@|4|@|0.1|@| What was the mission of the probe?" Answer: "The Cassini probe was launched on September 20|@|108|@|0.6899437584583995|@|[108, 92]|@|-17.4563045501709
+gpt-neo-1.3B|@|4|@|0.2|@| How many years was it active? How many years was it active? How many years was it active|@|84|@|1.7140971769976336|@|[15, 18, 19, 84, 22, 23]|@|-17.059694290161133
+gpt-neo-1.3B|@|4|@|0.4|@| "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|@|12|@|5.020922983990275|@|[1, 2, 3, 12]|@|-9.003586769104004

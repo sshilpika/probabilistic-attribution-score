@@ -1,0 +1,7 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|4|@|0.1|@| " Let's give stream of consciousness first:
+To answer the question "When was the Cassini launched|@|200|@|0.0|@|[200]|@|-1.4246329069137573
+Qwen2.5-1.5B-Instruct|@|4|@|0.2|@| " Let's give stream of consciousness first:
+To answer the question "When was the Cassini launched|@|200|@|0.0|@|[200]|@|-1.4246329069137573
+Qwen2.5-1.5B-Instruct|@|4|@|0.4|@| " Let's give stream of consciousness first:
+To answer the question "When was the Cassini launched|@|200|@|0.0|@|[200]|@|-1.4246329069137573

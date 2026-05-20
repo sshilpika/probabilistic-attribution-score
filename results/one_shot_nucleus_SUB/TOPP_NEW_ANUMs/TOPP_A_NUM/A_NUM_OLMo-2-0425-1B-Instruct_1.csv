@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B-Instruct|@|1|@|0.1|@| be perfect for a good session.
+
+The surfer found the perfect spot on the beach where the waves|@|200|@|0.0|@|[200]|@|-14.149332046508789
+OLMo-2-0425-1B-Instruct|@|1|@|0.2|@| be perfect for a good session.
+
+The surfer arrived at the beach and immediately checked the tide levels|@|58|@|1.3811731800526272|@|[48, 58, 50, 44]|@|-15.792120933532715
+OLMo-2-0425-1B-Instruct|@|1|@|0.4|@| be favorable for a good surf session.
+
+As he arrived at the beach, he noticed that the waves|@|9|@|4.696015074470852|@|[1, 2, 3, 4, 5, 6, 9]|@|-13.05621337890625

@@ -1,0 +1,6 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|2|@|0.1|@| accomplishment. She decided to take a nap to rest and recover from the long hike. After a few|@|200|@|0.0|@|[200]|@|-18.268795013427734
+Qwen2.5-1.5B-Instruct|@|2|@|0.2|@| accomplishment. Which of the following best describes the emotion Chang felt upon reaching the mountain top?
+
+A.|@|23|@|3.116781987007833|@|[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 16, 19, 23]|@|-14.552671432495117
+Qwen2.5-1.5B-Instruct|@|2|@|0.4|@| peace. However, she realized that she had forgotten her water bottle. What is the most likely reason|@|2|@|5.2636600075200395|@|[1, 2]|@|-20.067462921142578

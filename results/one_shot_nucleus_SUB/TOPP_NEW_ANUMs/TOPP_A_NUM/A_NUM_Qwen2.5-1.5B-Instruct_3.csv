@@ -1,0 +1,6 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|3|@|0.1|@| closely later. He then looked at the walls, noticing a pattern of graffiti that he couldn't quite|@|200|@|0.0|@|[200]|@|-18.54852294921875
+Qwen2.5-1.5B-Instruct|@|3|@|0.2|@| closely later. He then looked at the floor, noticing a small stain. He made a note to|@|47|@|2.568797918064354|@|[1, 2, 3, 4, 6, 7, 8, 11, 12, 14, 47, 18, 19, 24]|@|-13.608749389648438
+Qwen2.5-1.5B-Instruct|@|3|@|0.4|@| closely later. 
+
+What is the most likely reason for the police officer to be examining the doork|@|5|@|4.9694403332870465|@|[1, 2, 3, 4, 5]|@|-11.764986038208008

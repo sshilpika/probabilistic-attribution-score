@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Llama-3.2-1B-Instruct|@|2|@|0.1|@| accomplishment and peace. She sat down on a rock, took a deep breath, and began to write|@|200|@|0.0|@|[200]|@|-13.714954376220703
+Llama-3.2-1B-Instruct|@|2|@|0.2|@| accomplishment and peace. She sat down on a rock, took a deep breath, and began to journal|@|100|@|0.6931471805599453|@|[100]|@|-14.127410888671875
+Llama-3.2-1B-Instruct|@|2|@|0.4|@| accomplishment and peace. As she sat down to rest and enjoy the view, she noticed a strange object|@|7|@|4.721896951141609|@|[1, 2, 3, 4, 5, 6, 7]|@|-14.344680786132812

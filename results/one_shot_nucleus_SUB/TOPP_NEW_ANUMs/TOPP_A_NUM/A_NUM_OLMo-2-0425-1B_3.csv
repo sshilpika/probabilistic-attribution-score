@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+OLMo-2-0425-1B|@|3|@|0.1|@| closely later.
+
+As the officer left the room, he couldn't help but feel a little disappointed.|@|200|@|0.0|@|[200]|@|-16.30307960510254
+OLMo-2-0425-1B|@|3|@|0.2|@| closely later.
+
+The police officer walked into the room, carefully examining every clue. The information was sparse|@|86|@|2.073812790997279|@|[1, 2, 3, 4, 5, 7, 10, 15, 86, 27]|@|-7.09354829788208
+OLMo-2-0425-1B|@|3|@|0.4|@| closely later.
+
+The police officer walked into the room, carefully examining every clue. The information was sparse|@|3|@|5.247180823190018|@|[1, 2, 3]|@|-7.09354829788208

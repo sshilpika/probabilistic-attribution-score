@@ -1,0 +1,10 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Llama-3.2-1B-Instruct|@|3|@|0.1|@| closely.
+
+He walked over to the door and examined the doorknob more closely. It was a|@|103|@|0.6926971130356336|@|[97, 103]|@|-14.565330505371094
+Llama-3.2-1B-Instruct|@|3|@|0.2|@| closely.
+
+He walked over to the door and examined the doorknob more closely. It was a|@|37|@|2.6679742634187136|@|[33, 2, 3, 4, 37, 6, 7, 5, 9, 10, 1, 12, 13, 23]|@|-14.565330505371094
+Llama-3.2-1B-Instruct|@|3|@|0.4|@| closely.
+
+The doorknob was smooth and cool to the touch, but there was a small inscription|@|8|@|4.963426111832316|@|[1, 2, 3, 4, 5, 6, 8]|@|-14.474966049194336

@@ -1,0 +1,13 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|2|@|0.1|@| accomplishment.
+
+
+"I'm so glad I did it," she said. "I'm|@|200|@|0.0|@|[200]|@|-19.256059646606445
+gpt2|@|2|@|0.2|@| accomplishment.
+
+
+"It's so beautiful," she said. "I'm so happy to|@|14|@|3.5428764409541578|@|[1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14]|@|-22.856014251708984
+gpt2|@|2|@|0.4|@| awe.
+
+
+The mountains were beautiful, but there was something different about the way the hike|@|1|@|5.298317366548037|@|[1]|@|-37.41514587402344

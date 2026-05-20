@@ -1,0 +1,25 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gemma-3-1b-it|@|4|@|0.1|@|
+
+The answer is: 1997."
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+|@|200|@|0.0|@|[200]|@|-2.5515174865722656
+gemma-3-1b-it|@|4|@|0.2|@|
+
+The answer is: 1997."
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+|@|200|@|0.0|@|[200]|@|-2.5539169311523438
+gemma-3-1b-it|@|4|@|0.4|@|
+
+The answer is: 1997."
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+<end_of_turn>
+|@|200|@|0.0|@|[200]|@|-2.5539169311523438

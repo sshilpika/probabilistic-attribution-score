@@ -1,0 +1,34 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt-neo-1.3B|@|2|@|0.1|@| peace. She was in the middle of nowhere, but she was still in the mountains.
+
+|@|57|@|1.8526907234943923|@|[2, 36, 4, 38, 14, 16, 57, 29]|@|-26.575042724609375
+gpt-neo-1.3B|@|2|@|0.2|@| peace. She had never been to the mountains before, and she was excited to see them for the|@|12|@|4.603860843284895|@|[1, 2, 3, 4, 5, 6, 8, 12]|@|-24.214828491210938
+gpt-neo-1.3B|@|2|@|0.4|@| accomplishment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|@|27|@|4.359589441391485|@|[1, 2, 3, 4, 5, 6, 10, 12, 27]|@|-8.640874862670898

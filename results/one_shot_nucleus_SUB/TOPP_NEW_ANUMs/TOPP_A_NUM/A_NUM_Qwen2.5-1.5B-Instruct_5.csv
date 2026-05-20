@@ -1,0 +1,6 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|5|@|0.1|@| " Let's solve this gradually.
+The sentence is: "The water bottle didn't fit into the|@|200|@|0.0|@|[200]|@|-6.928950309753418
+Qwen2.5-1.5B-Instruct|@|5|@|0.2|@| " Let's solve this gradually.
+The sentence is: "The water bottle didn't fit into the|@|200|@|0.0|@|[200]|@|-6.928950309753418
+Qwen2.5-1.5B-Instruct|@|5|@|0.4|@| " What is the step-by-step process to determine the answer? 1. Identify the subject of|@|45|@|2.330907684042745|@|[32, 1, 2, 7, 45, 14, 16, 17, 18, 31]|@|-8.049955368041992

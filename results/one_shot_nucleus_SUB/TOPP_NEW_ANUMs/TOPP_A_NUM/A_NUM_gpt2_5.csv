@@ -1,0 +1,13 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|5|@|0.1|@| Is it a water bottle?"
+
+
+Answer: "It's a water bottle. It's|@|33|@|2.5308425866285154|@|[33, 5, 6, 8, 10, 11, 12, 13, 14, 16, 18, 20]|@|-19.136245727539062
+gpt2|@|5|@|0.2|@| Is it a baby bottle?"
+
+
+Answer: "It's a baby bottle." Question:|@|7|@|4.751892971737621|@|[1, 2, 3, 4, 5, 6, 7]|@|-22.10034942626953
+gpt2|@|5|@|0.4|@| Is it a product of a religious practice?"
+
+
+Answer: "The bottle was removed from|@|1|@|5.298317366548037|@|[1]|@|-38.73836898803711

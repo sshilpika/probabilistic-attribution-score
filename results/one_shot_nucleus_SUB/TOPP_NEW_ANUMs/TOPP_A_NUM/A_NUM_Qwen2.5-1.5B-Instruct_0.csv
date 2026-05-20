@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+Qwen2.5-1.5B-Instruct|@|0|@|0.1|@| " What should be filled in the blank?  A. calm  B. calm  C.|@|107|@|0.6906951757946529|@|[107, 93]|@|-11.090982437133789
+Qwen2.5-1.5B-Instruct|@|0|@|0.2|@| " What should be filled in the blank?  A. calm  B. confident  C.|@|58|@|1.3811731800526272|@|[48, 58, 50, 44]|@|-10.248212814331055
+Qwen2.5-1.5B-Instruct|@|0|@|0.4|@| " What should be filled in the blank?  A. calm  B. happy  C.|@|12|@|4.740992376190454|@|[1, 2, 3, 4, 5, 6, 7, 8, 12]|@|-10.614248275756836

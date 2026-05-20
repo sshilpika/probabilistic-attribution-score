@@ -1,0 +1,4 @@
+model_name|@|s_id|@|topp|@|most_common_response|@|count|@|entropy|@|set_in_entropy|@|A_num
+gpt2|@|4|@|0.1|@| Was it launched in 1997?" Answer: "In 1997, NASA's Cassini space probe was launched|@|105|@|0.6918966592050799|@|[105, 95]|@|-14.397279739379883
+gpt2|@|4|@|0.2|@| Was it launched in 1997?" Answer: "In 1997, NASA's Cassini space probe was launched|@|15|@|4.443979894696857|@|[1, 2, 3, 4, 5, 7, 10, 15]|@|-14.397279739379883
+gpt2|@|4|@|0.4|@| Where was it?" Answer: "In 1997, NASA's Cassini space probe was launched to explore|@|4|@|5.229002648492043|@|[1, 2, 4]|@|-12.200780868530273
